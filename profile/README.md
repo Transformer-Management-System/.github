@@ -10,6 +10,11 @@ This organization contains the core repositories for a complete transformer insp
 - AI-powered anomaly detection and severity classification  
 - Operational APIs, exports, and integration-ready services  
 
+## Demo video
+
+Watch the full system functionality demo here:  
+https://youtu.be/nX28taxkiKQ
+
 ## Repositories
 
 ### 1) [front-end](https://github.com/Transformer-Management-System/front-end)
